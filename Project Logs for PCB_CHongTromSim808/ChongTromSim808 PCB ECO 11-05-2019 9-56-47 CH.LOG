@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=U2-A1
+Added Pin To Net: NetName=NetC2_1 Pin=U2-A0
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U2-A1
+Added Net: Name=NetR6_2
+Added Room: Name=ChongTromSim808

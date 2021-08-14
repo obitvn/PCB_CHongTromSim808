@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetC6_2 Pin=U2-2
+Removed Pin From Net: NetName=NetC8_2 Pin=U2-4
+Removed Pin From Net: NetName=NetC7_2 Pin=U2-~3
+Removed Pin From Net: NetName=NetC9_2 Pin=U2-~5
+Change Component Footprint: Designator=C6 Old Footprint=CN2 New Footprint=SM-0805
+Change Component Footprint: Designator=C7 Old Footprint=CN2 New Footprint=SM-0805
+Change Component Footprint: Designator=C8 Old Footprint=CN2 New Footprint=SM-0805
+Change Component Footprint: Designator=C9 Old Footprint=CN2 New Footprint=SM-0805
+Change Component Comment : Designator=C6 Old Comment=104 New Comment=103
+Change Component Comment : Designator=C7 Old Comment=104 New Comment=103
+Change Component Comment : Designator=C8 Old Comment=104 New Comment=103
+Change Component Comment : Designator=C9 Old Comment=104 New Comment=103
+Change component parameters: Designator = "C6"; Footprint = "SM-0805"; UniqueID = "\OEEVCNGF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "SM-0805"; UniqueID = "\NLJRYEKL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "SM-0805"; UniqueID = "\JONIAQPM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = "SM-0805"; UniqueID = "\NOBEDBDU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC9_2 Pin=U2-2
+Added Pin To Net: NetName=NetC7_2 Pin=U2-4
+Added Pin To Net: NetName=NetC8_2 Pin=U2-~3
+Added Pin To Net: NetName=NetC6_2 Pin=U2-~5
+Added Room: Name=ChongTromSim808

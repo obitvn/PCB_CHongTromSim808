@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VIN Pin=R6-2
+Removed Pin From Net: NetName=VIN Pin=R7-2
+Removed Pin From Net: NetName=VIN Pin=R8-2
+Removed Pin From Net: NetName=VIN Pin=R9-2
+Change Component Footprint: Designator=C6 Old Footprint=SM-0805 New Footprint=CN2
+Change Component Footprint: Designator=C7 Old Footprint=SM-0805 New Footprint=CN2
+Change Component Footprint: Designator=C8 Old Footprint=SM-0805 New Footprint=CN2
+Change Component Footprint: Designator=C9 Old Footprint=SM-0805 New Footprint=CN2
+Added Pin To Net: NetName=3V3 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R7-2
+Added Pin To Net: NetName=3V3 Pin=R8-2
+Added Pin To Net: NetName=3V3 Pin=R9-2
+Added Member To Class: ClassName=ChongTromSim808 Member=Component C2 C?m bi?n rung
+Added Member To Class: ClassName=ChongTromSim808 Member=Component R6 10k
+Added Room: Name=ChongTromSim808

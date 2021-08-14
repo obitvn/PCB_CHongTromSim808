@@ -1,0 +1,108 @@
+Added Component: Designator=C1(CN2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CP1.5/3.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Description 1"; Value = "1000uF/6,3V - 470uF/16V - 330uF - 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "220uF/35V - 100uF/50V - 63V - 4,7uF/200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "22uF => 33uF100V - 3,3uF => 4,7uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "2,2uF =>3,3uF/350 - 2,2uF/400V - 1uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF/35V/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CN2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=J1(KF2-3.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6911031100xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 October 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "691103110002"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED-5-WHITE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED2(LED-5-BLUE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(TO220-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "IRF840"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-1/4W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RES-1/4W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(RES-1/4W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(RES-1/4W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(RES-1/4W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(RES-1/4W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(MPU6050)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(Arduino UNO R3 - v1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=3V3 Pin=R3-1
+Added Pin To Net: NetName=3V3 Pin=R4-1
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=3V3 Pin=U1-1
+Added Pin To Net: NetName=3V3 Pin=U2-3V3
+Added Net: Name=3V3
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=J1-2
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C3-2
+Added Pin To Net: NetName=NetC2_1 Pin=R5-1
+Added Pin To Net: NetName=NetC2_1 Pin=U2-A3
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R3-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=U2-A1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R4-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=U2-A2
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R6-2
+Added Pin To Net: NetName=NetQ1_1 Pin=U2-A0
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-3
+Added Pin To Net: NetName=NetR1_2 Pin=U2-A5
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-4
+Added Pin To Net: NetName=NetR2_2 Pin=U2-A4
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=VIN Pin=C1-2
+Added Pin To Net: NetName=VIN Pin=J1-1
+Added Pin To Net: NetName=VIN Pin=U2-Vin
+Added Net: Name=VIN
+Added Class: Name=ChongTromSim808
+Added Room: Name=ChongTromSim808
